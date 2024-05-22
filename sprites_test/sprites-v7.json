@@ -368,10 +368,10 @@
     "sdf": true
   },
   "flag-ticket": {
-    "width": 157,
-    "height": 154,
-    "x": 940,
-    "y": 955,
+    "width": 110,
+    "height": 109,
+    "x": 477,
+    "y": 913,
     "pixelRatio": 1,
     "sdf": true
   },
@@ -1192,50 +1192,34 @@
     "sdf": true
   },
   "groupPin": {
-    "width": 307,
-    "height": 329,
-    "x": 32,
-    "y": 920,
+    "width": 154,
+    "height": 165,
+    "x": 16,
+    "y": 910,
     "pixelRatio": 1,
     "sdf": true
   },
   "workPin": {
-    "width": 404,
-    "height": 280,
-    "x": 342,
-    "y": 920,
+    "width": 202,
+    "height": 141,
+    "x": 171,
+    "y": 910,
     "pixelRatio": 1,
     "sdf": true
   },
   "markupPin": {
-    "width": 174,
-    "height": 229,
-    "x": 752,
-    "y": 920,
-    "pixelRatio": 1,
-    "sdf": true
-  },
-  "ticketFlag": {
-    "width": 294,
-    "height": 294,
-    "x": 940,
-    "y": 892,
+    "width": 88,
+    "height": 116,
+    "x": 375,
+    "y": 910,
     "pixelRatio": 1,
     "sdf": true
   },
   "crosshair": {
-    "width": 141,
-    "height": 141,
-    "x": 1119,
-    "y": 946,
-    "pixelRatio": 1,
-    "sdf": true
-  },
-  "measureLabel": {
-    "width": 176,
-    "height": 52,
-    "x": 1288,
-    "y": 985,
+    "width": 104,
+    "height": 104,
+    "x": 598,
+    "y": 920,
     "pixelRatio": 1,
     "sdf": true
   }

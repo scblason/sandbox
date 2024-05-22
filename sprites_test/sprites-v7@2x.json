@@ -1224,18 +1224,10 @@
     "sdf": true
   },
   "crosshair": {
-    "width": 141,
-    "height": 141,
-    "x": 1119,
-    "y": 946,
-    "pixelRatio": 1,
-    "sdf": true
-  },
-  "measureLabel": {
-    "width": 176,
-    "height": 52,
-    "x": 1288,
-    "y": 985,
+    "width": 186,
+    "height": 186,
+    "x": 1117,
+    "y": 957,
     "pixelRatio": 1,
     "sdf": true
   }
