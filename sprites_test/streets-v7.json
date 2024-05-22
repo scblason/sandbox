@@ -1,7 +1,7 @@
 {
   "version": 8,
   "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
-  "sprite": "https://branding.vitruvi.cc/mapbox/sprites-v6",
+  "sprite": "https://raw.githubusercontent.com/scblason/sandbox/main/sprites_test/sprites-v7",
   "sources": {
     "composite": {
       "url": "mapbox://mapbox.mapbox-streets-v8,mapbox.mapbox-terrain-v2",
